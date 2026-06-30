@@ -37,8 +37,8 @@ Rather than relying on built-in numerical libraries, each algorithm is implement
 One of the primary goals of this project was not only implementing algorithms but also visualizing their numerical behaviour.
 
 <p align="center">
-<img src="assets/images/error_analysis.png" width="48%">
-<img src="assets/images/hilbert_conditioning.png" width="48%">
+<img src="assets/images/error-analysis.png" width="48%">
+<img src="assets/images/hilbert-condition.png" width="48%">
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ Implementation of floating-point number systems, machine precision analysis, und
 Investigates the trade-off between truncation error and round-off error for finite difference approximations.
 
 <p align="center">
-<img src="assets/images/error_analysis.png" width="70%">
+<img src="assets/images/error-analysis.png" width="70%">
 </p>
 
 Key ideas:
@@ -77,8 +77,8 @@ Key ideas:
 Investigates numerical stability using Hilbert, Vandermonde and Tridiagonal matrices.
 
 <p align="center">
-<img src="assets/images/hilbert_error.png" width="47%">
-<img src="assets/images/hilbert_condition.png" width="47%">
+<img src="assets/images/hilbert-error.png" width="47%">
+<img src="assets/images/hilbert-condition.png" width="47%">
 </p>
 
 Topics covered:
@@ -116,8 +116,7 @@ Comparison includes convergence rate and iteration count.
 Implemented several classical nonlinear equation solvers.
 
 <p align="center">
-<img src="assets/images/root_function.png" width="48%">
-<img src="assets/images/root_convergence.png" width="48%">
+<img src="assets/images/root-finding-function.png" width="48%">
 </p>
 
 Algorithms:
@@ -145,7 +144,7 @@ Demonstrates quadratic convergence under appropriate assumptions.
 Approximation of functions using polynomial interpolation and splines.
 
 <p align="center">
-<img src="assets/images/interpolation.png" width="70%">
+<img src="assets/images/interpolation-polynomials.png" width="70%">
 </p>
 
 Implemented:
@@ -161,7 +160,7 @@ Implemented:
 Comparison of high-order quadrature techniques.
 
 <p align="center">
-<img src="assets/images/quadrature_errors.png" width="75%">
+<img src="assets/images/divided-difference.png" width="75%">
 </p>
 
 Methods:
@@ -204,13 +203,12 @@ numerical-computing-toolkit/
 │
 ├── assets/
 │   └── images/
-│       ├── error_analysis.png
-│       ├── hilbert_error.png
-│       ├── hilbert_condition.png
-│       ├── root_function.png
-│       ├── root_convergence.png
-│       ├── interpolation.png
-│       └── quadrature_errors.png
+│       ├── error-analysis.png
+│       ├── hilbert-error.png
+│       ├── hilbert-condition.png
+│       ├── root-finding-function.png
+│       ├── interpolation-polynomials.png
+│       └── divided-difference.png
 │
 └── README.md
 ```
