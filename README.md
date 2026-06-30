@@ -38,7 +38,7 @@ One of the primary goals of this project was not only implementing algorithms bu
 
 <p align="center">
 <img src="assets/images/error-analysis.png" width="48%">
-<img src="assets/images/hilbert-condition.png" width="48%">
+<img src="assets/images/hilbert-conditioning.png" width="48%">
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ Investigates numerical stability using Hilbert, Vandermonde and Tridiagonal matr
 
 <p align="center">
 <img src="assets/images/hilbert-error.png" width="47%">
-<img src="assets/images/hilbert-condition.png" width="47%">
+<img src="assets/images/hilbert-conditioning.png" width="47%">
 </p>
 
 Topics covered:
@@ -205,7 +205,7 @@ numerical-computing-toolkit/
 │   └── images/
 │       ├── error-analysis.png
 │       ├── hilbert-error.png
-│       ├── hilbert-condition.png
+│       ├── hilbert-conditioning.png
 │       ├── root-finding-function.png
 │       ├── interpolation-polynomials.png
 │       └── divided-difference.png
